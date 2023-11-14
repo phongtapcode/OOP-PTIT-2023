@@ -1,0 +1,1 @@
+{"name":"Local: sodep1","url":"c:\\Users\\Admin\\Documents\\Java\\sodep1.java","tests":[{"id":1698517875222,"input":"3\n13293\n12948412\n1940812","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Documents\\Java\\sodep1.java","group":"local","local":true}
